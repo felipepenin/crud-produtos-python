@@ -105,6 +105,7 @@ def buscar(lista):
 def listar(lista):
     for i, item in enumerate(lista):
         print(f'{i + 1} - {item["nome"]} | R${item["valor"]:.2f} | {item["quantidade"]} itens')
+        print()
 
         
             
