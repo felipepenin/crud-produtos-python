@@ -1,4 +1,4 @@
-from funcoes.funcoes import menu, adicionar, remover, editar, buscar, listar
+from funcoes import menu, adicionar, remover, editar, buscar, listar
 import time
 
 lista = []
@@ -20,4 +20,5 @@ while True:
         case 6:
             print('Finalizando...')
             time.sleep(3)
-            print('Finalizado! Volte sempre.')
+            break
+print('Finalizado! Volte sempre.')
