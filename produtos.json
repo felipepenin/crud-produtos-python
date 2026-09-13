@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Camisa",
+        "valor": 10.9,
+        "quantidade": 100
+    },
+    {
+        "nome": "Tenis",
+        "valor": 100.0,
+        "quantidade": 50
+    },
+    {
+        "nome": "Camisa",
+        "valor": 99.9,
+        "quantidade": 100
+    },
+    {
+        "nome": "Tenis",
+        "valor": 50.0,
+        "quantidade": 90
+    },
+    {
+        "nome": "Calça",
+        "valor": 90.0,
+        "quantidade": 100
+    }
+]

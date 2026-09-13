@@ -1,7 +1,7 @@
-from funcoes import menu, adicionar, remover, editar, buscar, listar
+from funcoes import carregar_produtos, menu, adicionar, remover, editar, buscar, listar
 import time
 
-lista = []
+lista = carregar_produtos()
 
 while True:
     opcao = menu()
